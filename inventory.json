@@ -1,0 +1,41 @@
+{
+  "dealership": "Ocean Park Ford Sales Ltd",
+  "generated_at": "2026-10-03T15:50:03",
+  "vehicle_count": 3,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FTTW8M38RRB23752",
+      "stock": "U14675",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/7baa19880c73.html",
+      "source_url": "https://oceanparkford.com/view/used-2024-ford-maverick-29131/",
+      "dealer_url": "https://oceanparkford.com/view/used-2024-ford-maverick-29131/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:49:26",
+      "odometer_km": 64468,
+      "condition": "used"
+    },
+    {
+      "name": "Used2025\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FMCU9GN3SUB10619",
+      "stock": "U14660",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/876cbbff9150.html",
+      "source_url": "https://oceanparkford.com/view/used-2025-ford-escape-29042/",
+      "dealer_url": "https://oceanparkford.com/view/used-2025-ford-escape-29042/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:49:35",
+      "odometer_km": 30615,
+      "condition": "used"
+    },
+    {
+      "name": "New2026\n\t\t\t\t\t\t\t\tFord",
+      "vin": "3FTTW8B34TRB52577",
+      "stock": "14668",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/new/527a85c7a1ef.html",
+      "source_url": "https://oceanparkford.com/view/new-2026-ford-maverick-29130/",
+      "dealer_url": "https://oceanparkford.com/view/new-2026-ford-maverick-29130/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:49:52",
+      "condition": "new"
+    }
+  ]
+}
