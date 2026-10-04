@@ -1,6 +1,6 @@
 {
   "dealership": "Ocean Park Ford Sales Ltd",
-  "generated_at": "2026-10-04T11:06:59",
+  "generated_at": "2026-10-04T15:58:18",
   "vehicle_count": 3,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/7baa19880c73.html",
       "source_url": "https://oceanparkford.com/view/used-2024-ford-maverick-29131/",
       "dealer_url": "https://oceanparkford.com/view/used-2024-ford-maverick-29131/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T15:49:26",
+      "last_verified": "2026-10-04T15:58:03",
       "odometer_km": 64468,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/876cbbff9150.html",
       "source_url": "https://oceanparkford.com/view/used-2025-ford-escape-29042/",
       "dealer_url": "https://oceanparkford.com/view/used-2025-ford-escape-29042/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T15:49:35",
+      "last_verified": "2026-10-04T15:58:13",
       "odometer_km": 30615,
       "condition": "used"
     },
