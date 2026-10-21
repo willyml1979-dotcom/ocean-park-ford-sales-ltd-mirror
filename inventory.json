@@ -1,6 +1,6 @@
 {
   "dealership": "Ocean Park Ford Sales Ltd",
-  "generated_at": "2026-10-20T20:05:31",
+  "generated_at": "2026-10-20T20:13:31",
   "vehicle_count": 9,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -103,7 +103,7 @@
       "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/new/527a85c7a1ef.html",
       "source_url": "https://oceanparkford.com/view/new-2026-ford-maverick-29130/",
       "dealer_url": "https://oceanparkford.com/view/new-2026-ford-maverick-29130/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T13:44:35",
+      "last_verified": "2026-10-20T20:13:27",
       "condition": "new",
       "city": "Surrey",
       "province": "BC"
