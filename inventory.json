@@ -1,10 +1,22 @@
 {
   "dealership": "Ocean Park Ford Sales Ltd",
-  "generated_at": "2026-11-17T11:38:44",
-  "vehicle_count": 12,
+  "generated_at": "2026-11-18T02:17:35",
+  "vehicle_count": 14,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used2010\n\t\t\t\t\t\t\t\tFord",
+      "vin": "1FTFW1EV2AFB71608",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/779211b58a34.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2016\n\t\t\t\t\t\t\t\tGMC",
+      "vin": "1GTG6CE32G1117200",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/b80d3a14192e.html",
+      "condition": "used"
+    },
     {
       "name": "Used2021\n\t\t\t\t\t\t\t\tFord",
       "vin": "3FMCR9C6XMRA52289",
@@ -15,6 +27,12 @@
       "name": "Used2021\n\t\t\t\t\t\t\t\tToyota",
       "vin": "5YFBPMBE1MP238763",
       "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/09079f3049ea.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021\n\t\t\t\t\t\t\t\tToyota",
+      "vin": "5TFDZ5BN2MX057357",
+      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/0ee4c6edf4ab.html",
       "condition": "used"
     },
     {
@@ -33,12 +51,6 @@
       "name": "Used2023\n\t\t\t\t\t\t\t\tFord",
       "vin": "1FTFW1E81PFC72223",
       "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/75e96ae7d66c.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2024\n\t\t\t\t\t\t\t\tFord",
-      "vin": "1FMCU0E15RUB08229",
-      "url": "https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/ce8485977989.html",
       "condition": "used"
     },
     {
