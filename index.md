@@ -1,6 +1,6 @@
 # Ocean Park Ford Sales Ltd.
 
- dealership in Surrey. AI-readable inventory mirror, about 12 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 13 vehicles.
 
 - Official website: https://oceanparkford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/ocean-park-ford-sales-ltd-mirror/used/
